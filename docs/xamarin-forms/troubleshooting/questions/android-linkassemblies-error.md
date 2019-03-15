@@ -25,7 +25,7 @@ The resolution to this issue is to make sure you have the latest supported Andro
 
 ## Setting in Visual Studio
 
-1.  Right click on the Android project, and select **Properies** in the menu.
+1.  Right click on the Android project, and select **Properties** in the menu.
 2.  In the project properties, go to **Application**.
 3.  Set the **Compile using Android version: (Target Framework)** to the latest installed platform.
 4.  In the project properties, go to **Android Manifest**.
